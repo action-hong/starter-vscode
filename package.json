@@ -2,21 +2,21 @@
   "name": "name",
   "displayName": "My Extension",
   "version": "0.0.0",
-  "publisher": "antfu",
+  "publisher": "kkopite",
   "packageManager": "pnpm@6.32.3",
   "description": "",
   "keywords": [],
-  "homepage": "https://github.com/antfu/[name]#readme",
+  "homepage": "https://github.com/action-hong/[name]#readme",
   "bugs": {
-    "url": "https://github.com/antfu/[name]/issues"
+    "url": "https://github.com/action-hong/[name]/issues"
   },
   "license": "MIT",
   "author": "Anthony Fu <anthonyfu117@hotmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/antfu/[name]"
+    "url": "https://github.com/action-hong/[name]"
   },
-  "funding": "https://github.com/sponsors/antfu",
+  "funding": "https://github.com/sponsors/action-hong",
   "main": "./dist/index.js",
   "files": [
     "dist"
